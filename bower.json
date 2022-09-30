@@ -3,6 +3,7 @@
   "version": "6.0.0",
   "main": [
     "intro.min.js",
-    "introjs.min.css"
+    "introjs.min.css",
+    "themes/introjs-modern.css"
   ]
 }
